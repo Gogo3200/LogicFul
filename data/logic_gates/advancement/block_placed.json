@@ -24,6 +24,6 @@
         }
     },
     "rewards": {
-        "function": "logic_gates:inputs/placement/placement_main"
+        "function": "logic_gates:inputs/placement/start"
     }
 }

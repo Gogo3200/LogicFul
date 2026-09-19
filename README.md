@@ -1,4 +1,4 @@
-# Minecraft-Logic-Gate-Simulator
+# LogicFul
 Fully working logic gate simulator inside of minecraft using a datapack!
 
 ## Supported Versions
@@ -6,7 +6,7 @@ Fully working logic gate simulator inside of minecraft using a datapack!
 
 ## How to Install
 1. Create a new world, preferably a superflat with stone as the top layer.
-2. place the zip into the datapacks folder
+2. unzip the zip file and place it into the datapacks folder of your world
 3. leave and rejoin.
 
 ## In-Game Menu
