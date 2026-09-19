@@ -42,7 +42,7 @@
             "width": 125,
             "action": {
                 "type": "minecraft:open_url",
-                "url": "https://github.com/Gogo3200/Minecraft-Logic-Gate-Simulator"
+                "url": "https://github.com/Gogo3200/LogicFul"
             }
         },
         {
@@ -57,7 +57,7 @@
             "width": 125,
             "action": {
                 "type": "minecraft:open_url",
-                "url": "https://github.com/Gogo3200/Minecraft-Logic-Gate-Simulator/issues"
+                "url": "https://github.com/Gogo3200/LogicFul/issues"
             }
         }
     ],
