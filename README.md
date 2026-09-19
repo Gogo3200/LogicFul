@@ -1,6 +1,9 @@
 # LogicFul
 Fully working logic gate simulator inside of minecraft using a datapack!
 
+## Note
+This datapack is meant for creative players who want to build with logic gates. This is not recommended to play in survival (you *can* play it in survival, but you'd get nothing out of it). There are many limitations to this system where vanilla versions of logic gates could outpace it. If you don't like these limitations, move onto redstone or something.
+
 ## Supported Versions
 * 26.2
 
