@@ -24,6 +24,6 @@
         }
     },
     "rewards": {
-        "function": "logic_gates:inputs/placement/raycast"
+        "function": "logic_gates:inputs/placement/start"
     }
 }
