@@ -1,5 +1,8 @@
 # LogicFul
-Fully working logic gate simulator inside of minecraft using a datapack!
+LogicFul is a datapack that makes Minecraft into a logic gate simulator using wool blocks and carpets.
+
+## Gallery
+<img width="4080" height="2560" alt="20260723_172046" src="https://github.com/user-attachments/assets/90b804cc-b7cb-4c77-a9d7-2601bcd4ff33" />
 
 ## Note
 This datapack is meant for creative players who want to build with logic gates. This is not recommended to play in survival (you *can* play it in survival, but you'd get nothing out of it). There are many limitations to this system where vanilla versions of logic gates could outpace it. If you don't like these limitations, move onto redstone or something.
